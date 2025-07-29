@@ -1,29 +1,32 @@
-# 🛒 Superstore Sales Dashboard
+# 🛒 Superstore Sales Dashboard (Current Year)
 
 ## 🧾 Overview
-An interactive Tableau dashboard built using the Superstore dataset to analyze yearly sales trends, profit performance, and customer behavior across states and product categories.
+A Tableau dashboard analyzing the current year's sales, profit, and customer activity using the Superstore dataset. This interactive dashboard highlights performance trends across months, product categories, and U.S. states.
 
 ## 🛠 Tech Stack
-- **Tableau** – Dashboard visualization  
-- **PostgreSQL** – Data storage  
-- **SQL** – Data extraction and analysis  
-- **Pandas** – Initial data cleaning
+- **Tableau** – Dashboard Visualization  
+- **PostgreSQL** – Data Storage  
+- **SQL** – Data Querying  
+- **Pandas** – Data Cleaning
 
 ## 🚀 Key Features
-- KPIs for Total Sales, Profit, and Distinct Customers  
-- Sales Trend Line Chart (Monthly)  
-- Top & Bottom Performing Product Categories  
-- State-wise Sales Analysis (Choropleth Map)  
-- Average vs. Below-Average Product Sales Indicator
+- KPIs: Total Sales, Total Profit, Unique Customers  
+- Monthly Sales Trend (Line Chart)  
+- Product Sales Breakdown (Bar Chart with Average Indicator)  
+- Sales Distribution by State (Choropleth Map)
 
-## 📊 Insights
-- **November** saw the highest sales spike.
-- **Phones, Chairs, and Tables** generated the highest revenue.
-- **California, New York, and Texas** contributed the most to sales, covering over half of the total customer base.
-- **Fasteners, Supplies, and Labels** are the lowest-selling categories.
-- **February** was the weakest month in terms of sales.
-- **New York** had the highest profit margin.  
-- Despite high sales, **Texas showed a negative profit**, while **California** had slightly better profitability.
+## 📊 Current Year Metrics
+- **Sales**: `$116,019`  
+- **Profit**: `$9,085`  
+- **# of Customers**: `215`
 
-## 🖼 Screenshots
-![Dashboard Screenshot](./dashboard.png)
+## 📈 Insights
+- **November** is the peak sales month.  
+- **Phones, Chairs, and Tables** are top-performing product categories.  
+- **Fasteners, Labels, and Supplies** are underperforming categories.  
+- **California, New York, and Texas** lead in sales volume.
+- **February** is the lowest-performing month in terms of revenue.
+- There is a visible sales imbalance across states, with a few dominating the market.
+
+## 🖼 Dashboard Screenshot
+![Dashboard Screenshot](./Dashboard.png)
