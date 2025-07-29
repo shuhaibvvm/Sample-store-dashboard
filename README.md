@@ -29,4 +29,4 @@ A Tableau dashboard analyzing the current year's sales, profit, and customer act
 - There is a visible sales imbalance across states, with a few dominating the market.
 
 ## 🖼 Dashboard Screenshot
-![Dashboard Screenshot](./Dashboard.png)
+![Dashboard Screenshot](./dashboard.png)
