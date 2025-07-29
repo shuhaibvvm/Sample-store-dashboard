@@ -16,9 +16,9 @@ A Tableau dashboard analyzing the current year's sales, profit, and customer act
 - Sales Distribution by State (Choropleth Map)
 
 ## 📊 Current Year Metrics
-- **Sales**: `$116,019`  
-- **Profit**: `$9,085`  
-- **# of Customers**: `215`
+- **Sales**: `$449,732`  
+- **Profit**: `$58,402`  
+- **# of Customers**: `567`
 
 ## 📈 Insights
 - **November** is the peak sales month.  
